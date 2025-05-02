@@ -140,7 +140,7 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
-@media (max-aspect-ratio: 1.1679389313) {
+@media (max-width: 640px), (max-aspect-ratio: 1.1679389313) {
     body {
         display: flex;
         flex-direction: column;
